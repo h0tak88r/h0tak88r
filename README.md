@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h0tak88r" alt="h0tak88r" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/h0tak88r" target="blank"><img src="https://img.shields.io/twitter/follow/h0tak88r?logo=twitter&style=for-the-badge" alt="h0tak88r" /></a> </p>
+
 - 🔭 I’m currently working on [Hackerone](https://hackerone.com/0x88)
 
 - 🌱 I’m currently learning **Mobile, Web, Desktop Apps Security**
+
+- 🔭 I’m currently a developer at [CyInnove](https://github.com/CyInnove)
 
 - 📝 I regularly write articles on [https://sallam.gitbook.io/](https://sallam.gitbook.io/)
 
@@ -27,8 +31,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/h0tak88r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="h0tak88r" /></a></p><br><br>
-
-- 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h0tak88r&show_icons=true&locale=en&layout=compact" alt="h0tak88r" /></p>
 
