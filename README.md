@@ -1,5 +1,5 @@
 <h1 align="center">Hi all, I'm Sallam</h1>
-<h3 align="center">A passionate BugHunter and Pentester</h3>
+<h3 align="center">BugHunter, Pentester and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20views&color=0e75b6&style=flat" alt="h0tak88r" /> </p>
 
@@ -33,9 +33,12 @@
 <p><a href="https://ko-fi.com/h0tak88r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="h0tak88r" /></a></p><br><br>
 
 
-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h0tak88r&show_icons=true&locale=en&layout=compact" alt="h0tak88r" /></p>
+<div align="center">
+  <a href="https://github.com/h0tak88r">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=h0tak88r&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tak88r&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h0tak88r&show_icons=true&locale=en" alt="h0tak88r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h0tak88r&" alt="h0tak88r" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h0tak88r&" alt="h0tak88r" /></p>
+</div>
