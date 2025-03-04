@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://sallam.gitbook.io/](https://sallam.gitbook.io/)
 
-- 📫 How to reach me **0x88@wearehackeroen.com**
+- 📫 How to reach me **0x88@wearehackerone.com**
 
 - ⚡ Fun fact **I am Oatku**
 
