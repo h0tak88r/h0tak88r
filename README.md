@@ -1,6 +1,6 @@
 <h1 align="center">Hi all, I'm Sallam</h1>
 <h3 align="center">BugHunter, Pentester and Coder</h3>
-<h4 align="center">“The Grid. A digital frontier. I tried to picture clusters of information as they moved through the computer. What did they look like? Ships, motorcycles? Were the circuits like freeways? I kept dreaming of a world I thought I'd never see. And then, one day I got in...”</h4>
+<h4 align="center">Let them play the hero, I will be the truth this world desperately needs</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20views&color=0e75b6&style=flat" alt="h0tak88r" /> </p>
 
