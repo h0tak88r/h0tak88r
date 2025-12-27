@@ -1,41 +1,68 @@
-<h1 align="center">Hi all, I'm Sallam</h1>
-<h3 align="center">BugHunter, Pentester and Coder</h3>
+<h1 align="center">👋 Hi, I'm Sallam (0x88)</h1>
+<h3 align="center">Bug Hunter | Pentester | Security Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20views&color=0e75b6&style=flat" alt="h0tak88r" /> </p>
-<p align="left"> <a href="https://twitter.com/h0x88" target="blank"><img src="https://img.shields.io/twitter/follow/h0x88?logo=twitter&style=for-the-badge" alt="h0x88" /></a> </p>
-
-- 🔭 I’m currently working on [Hackerone](https://hackerone.com/0x88)
-
-- 🌱 I’m currently learning **Mobile, Web, Desktop Apps Security**
-
-- 🔭 I’m currently a developer at [CyInnove](https://github.com/CyInnove)
-
-- 📝 I regularly write articles on [https://sallam.gitbook.io/](https://sallam.gitbook.io/)
-
-- 📫 How to reach me **0x88@wearehackerone.com**
-
-- ⚡ Fun fact **I am Oatku**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/h0x88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h0x88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0x88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0x88" height="30" width="40" /></a>
-<a href="https://fb.com/h00x88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h00x88" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/h0x88">
+    <img src="https://img.shields.io/twitter/follow/h0x88?logo=twitter&style=for-the-badge" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/0x88"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0x88" /></a></p><br><br>
+---
 
+### 🧠 About Me
+- 🎯 Bug Hunter on **[HackerOne](https://hackerone.com/0x88)**
+- 🛡️ Focused on **Web, Mobile & Desktop App Security**
+- 🧑‍💻 Developer at **CyInnove**
+- ✍️ Writing security notes & research on **[GitBook](https://sallam.gitbook.io)**
+- 📬 Reach me at: **h0x88@proton.me**
+- ⚡ Fun fact: *Otaku with a terminal*
 
-<div align="center">
-  <a href="https://github.com/h0tak88r">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=h0tak88r&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tak88r&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/>
-</div>
+---
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h0tak88r&" alt="h0tak88r" /></p>
-</div>
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://twitter.com/h0x88" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/0x88" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://fb.com/h00x88" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+</p>
+
+---
+
+### ☕ Support My Work
+<a href="https://ko-fi.com/0x88" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" />
+</a>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h0tak88r&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tak88r&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=h0tak88r&theme=github-dark&hide_border=true" />
+</p>
