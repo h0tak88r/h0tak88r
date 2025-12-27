@@ -2,7 +2,7 @@
 <h3 align="center">BugHunter, Pentester and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20views&color=0e75b6&style=flat" alt="h0tak88r" /> </p>
-<p align="left"> <a href="https://twitter.com/0x88__" target="blank"><img src="https://img.shields.io/twitter/follow/0x88__?logo=twitter&style=for-the-badge" alt="h0tak88r" /></a> </p>
+<p align="left"> <a href="https://twitter.com/h0x88" target="blank"><img src="https://img.shields.io/twitter/follow/h0x88?logo=twitter&style=for-the-badge" alt="h0tak88r" /></a> </p>
 
 - 🔭 I’m currently working on [Hackerone](https://hackerone.com/0x88)
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/h0tak88r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h0tak88r" height="30" width="40" /></a>
+<a href="https://twitter.com/h0x88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h0tak88r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/h0tak88r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h0tak88r" height="30" width="40" /></a>
 <a href="https://fb.com/h0tak88r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h0tak88r" height="30" width="40" /></a>
 </p>
