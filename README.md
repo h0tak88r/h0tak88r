@@ -1,6 +1,5 @@
 <h1 align="center">Hi all, I'm Sallam</h1>
 <h3 align="center">BugHunter, Pentester and Coder</h3>
-<h4 align="center">Let them play the hero, I will be the truth this world desperately needs</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20views&color=0e75b6&style=flat" alt="h0tak88r" /> </p>
 <p align="left"> <a href="https://twitter.com/0x88__" target="blank"><img src="https://img.shields.io/twitter/follow/0x88__?logo=twitter&style=for-the-badge" alt="h0tak88r" /></a> </p>
